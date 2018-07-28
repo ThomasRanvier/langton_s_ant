@@ -12,13 +12,17 @@ You can change the rules in the config file :
 Examples of obtained results :
 
 Rule : RL
+
 ![RL](RL.png)
 
 Rule : LLRR
+
 ![LLRR](LLRR.png)
 
 Rule : RRLLLRLLLRRR
+
 ![RRLLLRLLLRRR](RRLLLRLLLRRR.png)
 
 Rule : LLRRRLRLRLLR
+
 ![LLRRRLRLRLLR](LLRRRLRLRLLR.png)
