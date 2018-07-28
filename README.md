@@ -8,3 +8,17 @@ You can change the rules in the config file :
 - a const int VARIABLES_COUNT, it will be the count of the rules.
 - a const sf::Color COLORS[VARIABLES_COUNT], an array of SFML colors, one for each rule.
 - a const bool DIRECTIONS[VARIABLES_COUNT], an array of booleans. They symbolize the direction in which the ant will go when it passes on the corresponding color : false for left, and true for right.
+
+Examples of obtained results :
+
+Rule : RL
+![RL](RL.png)
+
+Rule : LLRR
+![LLRR](LLRR.png)
+
+Rule : RRLLLRLLLRRR
+![RRLLLRLLLRRR](RRLLLRLLLRRR.png)
+
+Rule : LLRRRLRLRLLR
+![LLRRRLRLRLLR](LLRRRLRLRLLR.png)
